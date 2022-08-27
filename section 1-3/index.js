@@ -1,0 +1,5 @@
+console.log('Hello Node.js!')
+// const fs = require('fs')
+// fs.writeFileSync('notes.txt', 'Aku cinta Indonesia')
+const checkUtils = require('./utils.js')
+checkUtils()
